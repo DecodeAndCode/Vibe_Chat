@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713715811160",
+    "project_id": "vibe-chat-449c8",
+    "storage_bucket": "vibe-chat-449c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713715811160:android:933555ce71a66a14ef1b2d",
+        "android_client_info": {
+          "package_name": "com.example.vibe_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713715811160-5fslvuuit96or1db89nk7a1dvs4rkmmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu3dnvxwJ23V0GeMXQwpvod8hWVjiYh4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713715811160-5fslvuuit96or1db89nk7a1dvs4rkmmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

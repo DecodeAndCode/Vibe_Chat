@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>713715811160-3o06baevlr9i15mi47h15n6jlusfepab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.713715811160-3o06baevlr9i15mi47h15n6jlusfepab</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwtkGRk4ZxhRfro-kqmJyukp_lIoanVqA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>713715811160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vibeChat</string>
+	<key>PROJECT_ID</key>
+	<string>vibe-chat-449c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vibe-chat-449c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:713715811160:ios:d51903ddc0f35264ef1b2d</string>
+</dict>
+</plist>
